@@ -137,3 +137,16 @@ h4 {
         grid-template-columns: 1fr 1fr 1fr 1fr
     }
 }
+
+.card-header img{
+    height: 25px;
+    margin-right: 10px;
+}
+
+h4 {
+    display: inline;
+}
+
+.center {
+    text-align: center;
+}
